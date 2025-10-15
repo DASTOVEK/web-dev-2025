@@ -1,0 +1,14 @@
+name: web-dev-2025
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/e25b2666-6973-4214-99a1-de1485eb3f61
+description: Demo website for HTML and CSS course
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:html
+  - source:github
+customFields: null
